@@ -6,5 +6,5 @@
  
 #Print the answer
 number= 9
-answer= number/3
+answer= number%3
 print(answer)
