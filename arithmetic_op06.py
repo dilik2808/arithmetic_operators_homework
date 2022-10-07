@@ -7,3 +7,9 @@
 #Print the answer.
  
 #Print the number.
+
+number=18
+number=number/2
+answer=number
+print(answer)
+print(number)
