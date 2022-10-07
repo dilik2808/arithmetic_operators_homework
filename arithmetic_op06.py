@@ -8,8 +8,9 @@
  
 #Print the number.
 
-number=18
-number=number//2
-answer=number
+number=17
+number=number/2
+answer=number-(number//1)
+
 print(answer)
 print(number)
