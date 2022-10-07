@@ -5,6 +5,6 @@
 #Find the remainder of the division of number by 3.
  
 #Print the answer
-number= 13
-answer= number%10
+number= 9
+answer= number/3
 print(answer)
